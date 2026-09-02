@@ -1,1 +1,3 @@
+El proyecto predecir qué tan memorable es un video para un espectador. Se define a un video como memorable como la probabilidad de que se recuerde tal video luego de un lapso de tiempo determinado.
 
+Recibirán un extenso conjunto de datos de videos que van acompañados de anotaciones memorables, así como predictores (features) extraídos previamente que reflejan distintos preprocesamientos de los videos para que la tarea le resulte más sencilla. Las etiquetas (labels) se ha recopilado a través de pruebas de reconocimiento y, por lo tanto, es el resultado de una medición objetiva del rendimiento de la memoria
